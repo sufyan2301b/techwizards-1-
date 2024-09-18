@@ -461,6 +461,7 @@
               <a href="shop.html" class="btn btn-medium btn-normal text-uppercase">Go to Shop</a>
             </div>
           </div>
+          <div><container><h1>mohsin<h1></container></div>
           <div class="swiper product-watch-swiper">
             <div class="swiper-wrapper">
               <div class="swiper-slide">
@@ -476,6 +477,7 @@
                   <div class="card-detail d-flex justify-content-between align-items-baseline pt-3">
                     <h3 class="card-title text-uppercase">
                       <a href="#">Pink watch</a>
+
                     </h3>
                     <span class="item-price text-primary">$870</span>
                   </div>
@@ -493,7 +495,8 @@
                   </div>
                   <div class="card-detail d-flex justify-content-between align-items-baseline pt-3">
                     <h3 class="card-title text-uppercase">
-                      <a href="#">Heavy watch</a>
+
+
                     </h3>
                     <span class="item-price text-primary">$680</span>
                   </div>
